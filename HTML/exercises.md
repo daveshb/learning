@@ -1,5 +1,5 @@
 
-# 📘 Ejercicios Básicos de HTML
+#  Ejercicios Básicos de HTML
 
 ### 0. Crea una carpeta llamada *Assets*.
  Agrega imgenes y videos a usar.
